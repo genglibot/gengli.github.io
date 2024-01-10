@@ -1,7 +1,6 @@
 ---
 title: "2prnet: A point cloud registration method that can be applied to large rigid transformations"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'under wrting'
 date: 2024-03-01
 

@@ -30,11 +30,15 @@ Skills
 Publications
 ======
  [1] 2prnet: A point cloud registration method that can be applied to large rigid transformations	
+
 Geng Li, Zhe Min                  	
+
 Would be submitted to IROS 2024.
 
 [2] Comparison of the SOTA models for liver point cloud registration	
+
 Hao Yu*, Geng Li*, Mingyang Liu*, Zhe Min               	
+
 Under writing 
 
   

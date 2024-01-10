@@ -15,16 +15,11 @@ Education
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+*SDSR lab 	Shandong University
+*Research Intern 
+*Advisors: Prof. Zhe Min                    	Jul. 2023 - Feb. 2024
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
+
 Skills
 ======
 * python(putorch, OpenCv)
@@ -37,6 +32,7 @@ Publications
  [1] 2prnet: A point cloud registration method that can be applied to large rigid transformations	
 Geng Li, Zhe Min                  	
 Would be submitted to IROS 2024.
+
 [2] Comparison of the SOTA models for liver point cloud registration	
 Hao Yu*, Geng Li*, Mingyang Liu*, Zhe Min               	
 Under writing 

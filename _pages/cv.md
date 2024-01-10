@@ -16,7 +16,9 @@ Education
 Work experience
 ======
 *SDSR lab 	Shandong University
+
 *Research Intern 
+
 *Advisors: Prof. Zhe Min                    	Jul. 2023 - Feb. 2024
 
 

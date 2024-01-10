@@ -11,9 +11,7 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in EE, Shandong University, 2021-2025(expected)
 
 Work experience
 ======
@@ -29,31 +27,25 @@ Work experience
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* python(putorch, OpenCv)
+* C/C++
+* latex
+* matlab
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+ [1] 2prnet: A point cloud registration method that can be applied to large rigid transformations	
+Geng Li, Zhe Min                  	
+Would be submitted to IROS 2024.
+[2] Comparison of the SOTA models for liver point cloud registration	
+Hao Yu*, Geng Li*, Mingyang Liu*, Zhe Min               	
+Under writing 
+
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+
   
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+***
